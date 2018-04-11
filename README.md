@@ -3,5 +3,5 @@ Front End for Pothole Detection App
 
 Resource sites used
 
-MapBox View >>> https://www.mapbox.com/android-docs/map-sdk/overview
+MapBox View >>> https://www.mapbox.com/android-docs/map-sdk/overview and
 Firebase realtime database >>> https://firebase.google.com/docs/database
